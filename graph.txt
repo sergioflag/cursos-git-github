@@ -1,0 +1,17 @@
+* 073636a Agregando estaciones del año
+*   e28a2e9 resolviendo conflicto merge main html en el documento index.html
+|\  
+| * c6b8402 agregando index.js a index.html
+* | 7267c3e Agregando style.css en index.html
+* |   0b14ab6 fusion con js
+|\ \  
+| * | ea448a7 Creando index.js
+* | | 7bc46e2 creando style.css
+| |/  
+|/|   
+* | 6e644bf Creando archivo index.html
+|/  
+* a837f56 Ignorando archivos .exe
+* 7fc2185 Creando licencia del repositorio
+* 321cb32 Agregando más contenido a readme
+* 6884725 Agregando contenido inicial

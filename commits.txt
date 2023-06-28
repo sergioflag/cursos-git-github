@@ -1,0 +1,73 @@
+commit 073636a03f333a6e8e841128676a0befd349ba69
+Author: sergioflag <93952303+sergioflag@users.noreply.github.com>
+Date:   Mon Jun 26 16:12:01 2023 -0600
+
+    Agregando estaciones del año
+
+commit e28a2e933b4ed2d5ddf30da31825747bda0898d8
+Merge: 7267c3e c6b8402
+Author: sergioflag <93952303+sergioflag@users.noreply.github.com>
+Date:   Mon Jun 26 16:07:03 2023 -0600
+
+    resolviendo conflicto merge main html en el documento index.html
+
+commit c6b8402d6d148a99e33bc47826eba62fdab3097e
+Author: sergioflag <93952303+sergioflag@users.noreply.github.com>
+Date:   Mon Jun 26 16:00:28 2023 -0600
+
+    agregando index.js a index.html
+
+commit 7267c3e9e5f3801ee7caafbcc64aaa05169a43d0
+Author: sergioflag <93952303+sergioflag@users.noreply.github.com>
+Date:   Mon Jun 26 15:58:55 2023 -0600
+
+    Agregando style.css en index.html
+
+commit 0b14ab6afdb0c73944ad95ccc0a4c6ba85718bcc
+Merge: 7bc46e2 ea448a7
+Author: sergioflag <93952303+sergioflag@users.noreply.github.com>
+Date:   Mon Jun 26 15:50:05 2023 -0600
+
+    fusion con js
+
+commit ea448a789823ee443f22c2f6fb0f060f8b907029
+Author: sergioflag <93952303+sergioflag@users.noreply.github.com>
+Date:   Mon Jun 26 15:41:36 2023 -0600
+
+    Creando index.js
+
+commit 7bc46e27154956fa9a3ad5c7fb510ed844cd56f1
+Author: sergioflag <93952303+sergioflag@users.noreply.github.com>
+Date:   Mon Jun 26 15:36:50 2023 -0600
+
+    creando style.css
+
+commit 6e644bfe1b71aaf9008a7fd9377b6bb72cb92eb0
+Author: sergioflag <93952303+sergioflag@users.noreply.github.com>
+Date:   Mon Jun 26 15:32:38 2023 -0600
+
+    Creando archivo index.html
+
+commit a837f5683c35ca74fbf48b4915a6d8ec851a36d1
+Author: sergioflag <93952303+sergioflag@users.noreply.github.com>
+Date:   Mon Jun 26 15:13:50 2023 -0600
+
+    Ignorando archivos .exe
+
+commit 7fc21850900c50f26ed86583c9348061a3792b92
+Author: sergioflag <93952303+sergioflag@users.noreply.github.com>
+Date:   Mon Jun 26 14:35:27 2023 -0600
+
+    Creando licencia del repositorio
+
+commit 321cb32d3e5a753712b327b677f0dd632cf94fee
+Author: sergioflag <93952303+sergioflag@users.noreply.github.com>
+Date:   Mon Jun 26 14:29:40 2023 -0600
+
+    Agregando más contenido a readme
+
+commit 688472514f16fe672a74ab09b7a5b041f189ca95
+Author: sergioflag <93952303+sergioflag@users.noreply.github.com>
+Date:   Mon Jun 26 14:18:46 2023 -0600
+
+    Agregando contenido inicial
